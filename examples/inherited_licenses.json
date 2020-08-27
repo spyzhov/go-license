@@ -1,0 +1,143 @@
+{
+  "Apache-2.0": {
+    "github.com/gomodule/redigo": [
+      "v1.8.2"
+    ],
+    "github.com/google/renameio": [
+      "v0.1.0"
+    ],
+    "gopkg.in/yaml.v2": [
+      "v2.2.2"
+    ],
+    "gopkg.in/yaml.v3": [
+      "v3.0.0-20200313102051-9f266ea9e77c"
+    ]
+  },
+  "BSD-2-Clause": {
+    "github.com/pkg/errors": [
+      "v0.8.1",
+      "v0.9.1"
+    ],
+    "github.com/streadway/amqp": [
+      "v1.0.0"
+    ],
+    "gopkg.in/check.v1": [
+      "v0.0.0-20161208181325-20d25e280405",
+      "v1.0.0-20180628173108-788fd7840127"
+    ]
+  },
+  "BSD-3-Clause": {
+    "github.com/google/uuid": [
+      "v1.1.1"
+    ],
+    "github.com/julienschmidt/httprouter": [
+      "v1.3.0"
+    ],
+    "github.com/pmezard/go-difflib": [
+      "v1.0.0"
+    ],
+    "github.com/rogpeppe/go-internal": [
+      "v1.3.0"
+    ],
+    "golang.org/x/crypto": [
+      "v0.0.0-20190308221718-c2843e01d9a2",
+      "v0.0.0-20190510104115-cbcb75029529"
+    ],
+    "golang.org/x/lint": [
+      "v0.0.0-20190930215403-16217165b5de"
+    ],
+    "golang.org/x/mod": [
+      "v0.0.0-20190513183733-4bf6d317e70e"
+    ],
+    "golang.org/x/net": [
+      "v0.0.0-20190311183353-d8887717615a",
+      "v0.0.0-20190404232315-eb5bcb51f2a3",
+      "v0.0.0-20190620200207-3b0461eec859"
+    ],
+    "golang.org/x/sync": [
+      "v0.0.0-20190423024810-112230192c58"
+    ],
+    "golang.org/x/sys": [
+      "v0.0.0-20190215142949-d0b11bdaac8a",
+      "v0.0.0-20190412213103-97732733099d"
+    ],
+    "golang.org/x/text": [
+      "v0.3.0"
+    ],
+    "golang.org/x/tools": [
+      "v0.0.0-20190621195816-6e04913cbbac",
+      "v0.0.0-20191029041327-9cc4af7d6b2c",
+      "v0.0.0-20191029190741-b9c20aec41a5",
+      "v0.0.0-20190311212946-11955173bddd"
+    ],
+    "golang.org/x/xerrors": [
+      "v0.0.0-20190717185122-a985d3407aa7"
+    ],
+    "gopkg.in/errgo.v2": [
+      "v2.1.0"
+    ]
+  },
+  "ISC": {
+    "github.com/davecgh/go-spew": [
+      "v1.1.1"
+    ]
+  },
+  "MIT": {
+    "github.com/BurntSushi/toml": [
+      "v0.3.1"
+    ],
+    "github.com/caarlos0/env/v6": [
+      "v6.3.0"
+    ],
+    "github.com/kisielk/gotool": [
+      "v1.0.0"
+    ],
+    "github.com/kr/pretty": [
+      "v0.1.0"
+    ],
+    "github.com/kr/pty": [
+      "v1.1.1"
+    ],
+    "github.com/kr/text": [
+      "v0.1.0"
+    ],
+    "github.com/lib/pq": [
+      "v1.0.0"
+    ],
+    "github.com/spyzhov/safe": [
+      "v1.2.0"
+    ],
+    "github.com/stretchr/objx": [
+      "v0.1.0"
+    ],
+    "github.com/stretchr/testify": [
+      "v1.3.0",
+      "v1.4.0",
+      "v1.5.1",
+      "v1.6.1"
+    ],
+    "go.uber.org/atomic": [
+      "v1.6.0"
+    ],
+    "go.uber.org/multierr": [
+      "v1.5.0"
+    ],
+    "go.uber.org/tools": [
+      "v0.0.0-20190618225709-2cfd321de3ee"
+    ],
+    "go.uber.org/zap": [
+      "v1.14.1"
+    ],
+    "gopkg.in/yaml.v3": [
+      "v3.0.0-20200313102051-9f266ea9e77c"
+    ],
+    "honnef.co/go/tools": [
+      "v0.0.1-2019.2.3"
+    ]
+  },
+  "Unknown": {
+    "github.com/davecgh/go-spew": [
+      "v1.1.0"
+    ]
+  }
+}
