@@ -105,6 +105,7 @@ MIT,github.com/spyzhov/ajson,v0.2.1
 func TestMain_HTML(t *testing.T) {
 	request := strings.Join([]string{
 		examples["MIT"],
+		examples["BSD-2-Clause"],
 	}, "\n")
 	content, err := runTest(t, request, "html")
 	if err != nil {
@@ -119,6 +120,25 @@ func TestMain_HTML(t *testing.T) {
 </head>
 <body>
 <h1>Inherited Licenses</h1>
+<hr />
+<h2><a href="https://opensource.org/licenses/BSD-2-Clause" target="_blank">BSD-2-Clause</a></h2>
+<table>
+    <thead>
+	<tr>
+		<th>Package</th>
+		<th>Versions</th>
+	</tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td valign="top" rowspan="2">gopkg.in/check.v1</td>
+        <td><a href="https://pkg.go.dev/gopkg.in/check.v1@v0.0.0-20161208181325-20d25e280405?tab=licenses" target="_blank">v0.0.0-20161208181325-20d25e280405</a></td>
+    </tr>
+    <tr>
+		<td><a href="https://pkg.go.dev/gopkg.in/check.v1@v1.0.0-20180628173108-788fd7840127?tab=licenses" target="_blank">v1.0.0-20180628173108-788fd7840127</a></td>
+	</tr>
+    </tbody>
+</table>
 <hr />
 <h2><a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a></h2>
 <table>
