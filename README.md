@@ -1,5 +1,10 @@
 # go-license
 
+[![Build Status](https://travis-ci.com/spyzhov/go-license.svg?branch=master)](https://travis-ci.com/spyzhov/go-license)
+[![Go Report Card](https://goreportcard.com/badge/github.com/spyzhov/go-license)](https://goreportcard.com/report/github.com/spyzhov/go-license)
+[![GoDoc](https://godoc.org/github.com/spyzhov/go-license?status.svg)](https://godoc.org/github.com/spyzhov/go-license)
+[![Coverage Status](https://coveralls.io/repos/github/spyzhov/go-license/badge.svg?branch=master)](https://coveralls.io/github/spyzhov/go-license?branch=master)
+
 `go-license` is a tool to find all inherited licenses in the project, that uses `go modules`, based on `go.sum` file.
 
 It could generate a report in any of the given formats: `Markdown`, `JSON`, `CSV`, `HTML`.
